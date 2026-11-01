@@ -1,4 +1,4 @@
-# adadiamonds-com
+# Ada Diamonds
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,148 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-adadiamonds-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://adadiamonds.com/
+Ada Diamonds is a New York‑based jeweler specializing in lab‑grown diamond engagement rings and fine jewelry. The company offers custom‑made pieces crafted with premium lab diamonds curated by experts, providing high quality at accessible prices. Their online store showcases a wide selection of settings, styles, and metal options, catering to customers seeking sustainable and ethically sourced gemstones for special occasions.
+
+**Areas:** Jewelry · Lab Diamonds · Engagement Rings · New York · E-commerce
+
+## Ada Diamonds on APIs.io
+
+Everything profiled for Ada Diamonds is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/adadiamonds-com/](https://apis.io/providers/adadiamonds-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [Ada Diamonds Agentic checkout (ACP) API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-agentic-checkout-acp-api/) — The Agentic checkout (ACP) API from Ada Diamonds — 4 operation(s) for agentic checkout (acp).
+- [Ada Diamonds Agentic checkout (hosted link) API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-agentic-checkout-hosted-link-api/) — The Agentic checkout (hosted link) API from Ada Diamonds — 1 operation(s) for agentic checkout (hosted link).
+- [Ada Diamonds Agentic checkout (UCP) API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-agentic-checkout-ucp-api/) — The Agentic checkout (UCP) API from Ada Diamonds — 4 operation(s) for agentic checkout (ucp).
+- [Ada Diamonds Agentic commerce discovery API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-agentic-commerce-discovery-api/) — The Agentic commerce discovery API from Ada Diamonds — 3 operation(s) for agentic commerce discovery.
+- [Ada Diamonds Appointments API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-appointments-api/) — Consultation requests.
+- [Ada Diamonds Bulk API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-bulk-api/) — Batched reads and asynchronous catalog exports.
+- [Ada Diamonds Catalog API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-catalog-api/) — Diamonds, engagement rings, and jewelry.
+- [Ada Diamonds Content API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-content-api/) — Published guides and company information.
+- [Ada Diamonds Discovery API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-discovery-api/) — API roots and credential checks.
+- [Ada Diamonds MCP API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-mcp-api/) — The MCP API from Ada Diamonds — 1 operation(s) for mcp.
+- [Ada Diamonds Onboarding API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-onboarding-api/) — Self-serve credentials.
+- [Ada Diamonds Search API](https://apis.io/apis/adadiamonds-com/adadiamonds-com-search-api/) — The Search API from Ada Diamonds — 1 operation(s) for search.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Adadiamonds Com Webhooks](https://apis.io/asyncapis/adadiamonds-com/adadiamonds-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Adadiamonds Com Agentic Access](https://apis.io/agentic-access/adadiamonds-com/adadiamonds-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [AcpCheckoutSession](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-acp-checkout-session/)
+- [AcpFeedProduct](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-acp-feed-product/)
+- [CheckoutLink](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-checkout-link/)
+- [Job](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-job/)
+- [UcpCheckout](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-ucp-checkout/)
+- [UcpCheckoutRequest](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-ucp-checkout-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Adadiamonds Com Context](https://apis.io/jsonld/adadiamonds-com/adadiamonds-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Ada Diamonds API Rules](https://apis.io/rules/adadiamonds-com/adadiamonds-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Adadiamonds Com Authentication](https://apis.io/security/adadiamonds-com/adadiamonds-com-authentication/)
+- [Adadiamonds Com Domain Security](https://apis.io/security/adadiamonds-com/adadiamonds-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Adadiamonds Com Scopes](https://apis.io/scopes/adadiamonds-com/adadiamonds-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Adadiamonds Com Plans Pricing](https://apis.io/plans/adadiamonds-com/adadiamonds-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://adadiamonds.com/)
+- [API reference](https://www.adadiamonds.com/developers)
+- [Pricing](https://www.adadiamonds.com/pricing.md)
+- [Terms of service](https://www.adadiamonds.com/terms)
+- [Privacy policy](https://www.adadiamonds.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 57.2** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.7 |
+| Contract quality | 70.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 7.9 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 50.5 |
+
+**Agent readiness 79.7** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | verified |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | self |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adadiamonds-com/](https://apis.io/providers/adadiamonds-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ada Diamonds: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/adadiamonds-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
