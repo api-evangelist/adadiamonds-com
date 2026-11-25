@@ -66,7 +66,7 @@
 
 Ada Diamonds is a New York‑based jeweler specializing in lab‑grown diamond engagement rings and fine jewelry. The company offers custom‑made pieces crafted with premium lab diamonds curated by experts, providing high quality at accessible prices. Their online store showcases a wide selection of settings, styles, and metal options, catering to customers seeking sustainable and ethically sourced gemstones for special occasions.
 
-**Areas:** Jewelry · Lab Diamonds · Engagement Rings · New York · E-commerce
+**Areas:** Jewelry · Lab Diamonds · Engagement Rings · New York · E-Commerce
 
 ## Ada Diamonds on APIs.io
 
@@ -97,20 +97,41 @@ Event-driven and webhook contracts.
 
 - [Adadiamonds Com Webhooks](https://apis.io/asyncapis/adadiamonds-com/adadiamonds-com-webhooks/)
 
+#### MCP servers (1)
+
+Model Context Protocol servers that expose the API to agents.
+
+- [adadiamonds-com-mcp.yml](https://apis.io/servers/adadiamonds-com/adadiamonds-com-mcp-yml/)
+
 #### Agentic access (1)
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Adadiamonds Com Agentic Access](https://apis.io/agentic-access/adadiamonds-com/adadiamonds-com-agentic-access/)
+- [Ada Diamonds Agentic Access](https://apis.io/agentic-access/adadiamonds-com/adadiamonds-com-agentic-access/)
 
-#### JSON Schema (6)
+#### JSON Schema (21)
 
 The data models the API reads and writes.
 
 - [AcpCheckoutSession](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-acp-checkout-session/)
 - [AcpFeedProduct](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-acp-feed-product/)
+- [ApiIndex](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-api-index/)
+- [ApiKey](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-api-key/)
+- [ApiKeyRequest](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-api-key-request/)
+- [Article](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-article/)
+- [ArticleList](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-article-list/)
 - [CheckoutLink](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-checkout-link/)
+- [ConsultationRequest](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-consultation-request/)
+- [ConsultationResponse](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-consultation-response/)
+- [Diamond](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-diamond/)
+- [DiamondList](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-diamond-list/)
+- [EngagementRing](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-engagement-ring/)
+- [EngagementRingList](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-engagement-ring-list/)
+- [JewelryItem](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-jewelry-item/)
+- [JewelryList](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-jewelry-list/)
 - [Job](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-job/)
+- [RegistrationDescription](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-registration-description/)
+- [ShowroomList](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-showroom-list/)
 - [UcpCheckout](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-ucp-checkout/)
 - [UcpCheckoutRequest](https://apis.io/schemas/adadiamonds-com/adadiamonds-com-ucp-checkout-request/)
 
@@ -130,20 +151,20 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Adadiamonds Com Authentication](https://apis.io/security/adadiamonds-com/adadiamonds-com-authentication/)
-- [Adadiamonds Com Domain Security](https://apis.io/security/adadiamonds-com/adadiamonds-com-domain-security/)
+- [Ada Diamonds Authentication](https://apis.io/security/adadiamonds-com/adadiamonds-com-authentication/)
+- [Ada Diamonds Domain Security](https://apis.io/security/adadiamonds-com/adadiamonds-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Adadiamonds Com Scopes](https://apis.io/scopes/adadiamonds-com/adadiamonds-com-scopes/)
+- [Ada Diamonds Scopes](https://apis.io/scopes/adadiamonds-com/adadiamonds-com-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Adadiamonds Com Plans Pricing](https://apis.io/plans/adadiamonds-com/adadiamonds-com-plans-pricing/)
+- [Ada Diamonds Plans Pricing](https://apis.io/plans/adadiamonds-com/adadiamonds-com-plans-pricing/)
 
 ## Where to find this API
 
@@ -157,23 +178,23 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 57.2** — strong · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 51.1** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.7 |
-| Contract quality | 70.6 |
-| Contract governance | 79.1 |
-| Operational transparency | 7.9 |
-| Developer ergonomics | 46.9 |
-| Access clarity | 50.5 |
+| Discoverability | 83.3 |
+| Contract quality | 73.6 |
+| Contract governance | 22.0 |
+| Operational transparency | 7.1 |
+| Developer ergonomics | 42.3 |
+| Access clarity | 55.3 |
 
-**Agent readiness 79.7** — agent-native
+**Agent readiness 72.5** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
 | Auth Clarity | served (partial credit) |
@@ -181,8 +202,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Error Semantics | verified |
 | OpenAPI Examples | partial |
 | Rate Limit Signal | verified |
-| Event Surface Described | unknown |
-| Agent Skills | unknown |
+| Event Surface Described | yes |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | conformant |
@@ -193,8 +214,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | self |
 | Pagination Ratio | partial |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | yes |
 
-**Regulatory alignment 34.3** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 28.4** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/adadiamonds-com/](https://apis.io/providers/adadiamonds-com/).
 
